@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HtoE</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="text1">Por que todos podemos ayudar a llevar alimento a quien lo necesita. Alimentos hoy, para nutrir el mañana.</string>
+    <string name="text2">Help to Eat</string>
+    <string name="text3">Dona un poco de comida en los puntos marcados y ayudanos a llevar la comida a quien mas lo necesita</string>
+    <string name="text4">Ayudanos a ayudar</string>
+    <string name="text6">Ayudanos a transportar la comida de un punto a otro sin desviarte de tu recorrido diario y llevando la comida a quines mas lo necesiten</string>
+    <string name="text5">Ayudanos a ayudar</string>
+    <string name="text8">Combierte tu negocio, escuela o espacio en un alberge provicional de comida, todos podemos ayudar</string>
+    <string name="text7">Ayudanos a ayudar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabedcont">tabedcont</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
